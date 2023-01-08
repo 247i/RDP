@@ -1,0 +1,94 @@
+2019-11-25 22:49:08,625 [1] INFO  - mRemoteNG 1.76.20.24669 Portable Edition starting.
+2019-11-25 22:49:08,632 [1] INFO  - Command Line: C:\Users\inthirua\Downloads\mRemoteNG-Portable-1.76.20.24669\mRemoteNG.exe
+2019-11-25 22:49:09,698 [1] INFO  - Microsoft Windows 10 Enterprise  64-bit
+2019-11-25 22:49:09,698 [1] INFO  - Microsoft .NET CLR 4.0.30319.42000
+2019-11-25 22:49:09,698 [1] INFO  - System Culture: ta-IN/????? (???????)
+2019-11-25 22:49:09,699 [1] INFO  - Checking FIPS Policy...
+2019-11-25 22:49:09,699 [1] INFO  - Checking Lenovo AutoScroll Utility...
+2019-11-25 22:49:09,777 [1] WARN  - Loading External Apps failed: Could not FIND file!
+2019-11-25 22:49:10,103 [1] INFO  - Saving connections...
+2019-11-25 22:49:10,141 [1] INFO  - Successfully saved connections
+2019-11-25 22:49:10,369 [1] WARN  - PuttySessions.Watcher.StartWatching() failed.
+Not found 
+2019-11-25 22:49:10,370 [1] WARN  - XmingPortablePuttySessions.Watcher.StartWatching() failed: 'sessions' does not exist.
+2019-11-25 22:49:38,478 [7] INFO  - Saving connections...
+2019-11-25 22:49:38,499 [7] INFO  - Successfully saved connections
+2019-11-25 22:50:14,343 [1] INFO  - Saving connections...
+2019-11-25 22:50:14,353 [1] INFO  - Successfully saved connections
+2020-01-04 11:21:54,390 [1] INFO  - mRemoteNG 1.76.20.24669 Portable Edition starting.
+2020-01-04 11:21:54,405 [1] INFO  - Command Line: C:\Disk\PortableApps\mRemoteNG-Portable\mRemoteNG.exe
+2020-01-04 11:21:55,484 [1] INFO  - Microsoft Windows 10 Enterprise  64-bit
+2020-01-04 11:21:55,484 [1] INFO  - Microsoft .NET CLR 4.0.30319.42000
+2020-01-04 11:21:55,484 [1] INFO  - System Culture: ta-IN/????? (???????)
+2020-01-04 11:21:55,484 [1] INFO  - Checking FIPS Policy...
+2020-01-04 11:21:55,484 [1] INFO  - Checking Lenovo AutoScroll Utility...
+2020-01-04 11:21:55,530 [1] INFO  - Loading External Apps from: C:\Disk\PortableApps\mRemoteNG-Portable\extApps.xml
+2020-01-04 11:21:55,967 [1] WARN  - PuttySessions.Watcher.StartWatching() failed.
+Not found 
+2020-01-04 11:21:55,967 [1] WARN  - XmingPortablePuttySessions.Watcher.StartWatching() failed: 'sessions' does not exist.
+2020-01-04 11:22:08,422 [1] ERROR - GetUpdateInfoCompleted() failed.
+The remote name could not be resolved: 'mremoteng.org'
+2020-02-01 21:49:23,149 [1] INFO  - mRemoteNG 1.76.20.24669 Portable Edition starting.
+2020-02-01 21:49:23,149 [1] INFO  - Command Line: C:\Utilities\PortableApps\mRemoteNG-Portable\mRemoteNG.exe
+2020-02-01 21:49:24,290 [1] INFO  - Microsoft Windows 10 Enterprise  64-bit
+2020-02-01 21:49:24,290 [1] INFO  - Microsoft .NET CLR 4.0.30319.42000
+2020-02-01 21:49:24,290 [1] INFO  - System Culture: ta-IN/????? (???????)
+2020-02-01 21:49:24,290 [1] INFO  - Checking FIPS Policy...
+2020-02-01 21:49:24,290 [1] INFO  - Checking Lenovo AutoScroll Utility...
+2020-02-01 21:49:24,415 [1] INFO  - Loading External Apps from: C:\Utilities\PortableApps\mRemoteNG-Portable\extApps.xml
+2020-02-01 21:49:24,962 [1] WARN  - PuttySessions.Watcher.StartWatching() failed.
+Not found 
+2020-02-01 21:49:24,962 [1] WARN  - XmingPortablePuttySessions.Watcher.StartWatching() failed: 'sessions' does not exist.
+2020-02-01 21:49:24,977 [1] INFO  - Showing ComponentsCheck window
+2020-02-01 21:49:24,977 [1] INFO  - Trying to show the components window
+2020-02-01 21:49:25,008 [1] INFO  - Beginning component check
+2020-02-01 21:49:25,165 [1] INFO  - RDP installed
+2020-02-01 21:49:25,212 [1] INFO  - VNC installed
+2020-02-01 21:49:25,212 [1] INFO  - PuTTY installed
+2020-02-01 21:49:26,820 [1] INFO  - ICA installed
+2020-02-01 21:49:27,586 [1] INFO  - Gecko Browser installed
+2020-02-01 21:49:27,586 [1] INFO  - Finished component check
+2020-02-01 21:49:59,004 [1] INFO  - Saving connections...
+2020-02-01 21:49:59,035 [1] INFO  - Successfully saved connections
+2020-10-12 23:01:13,216 [1] INFO  - mRemoteNG 1.76.20.24669 Portable Edition starting.
+2020-10-12 23:01:13,223 [1] INFO  - Command Line: D:\Disk\PortableApps\mRemoteNG-Portable\mRemoteNG.exe
+2020-10-12 23:01:14,363 [1] INFO  - Microsoft Windows 10 Enterprise  64-bit
+2020-10-12 23:01:14,363 [1] INFO  - Microsoft .NET CLR 4.0.30319.42000
+2020-10-12 23:01:14,363 [1] INFO  - System Culture: ta-IN/தமிழ் (இந்தியா)
+2020-10-12 23:01:14,364 [1] INFO  - Checking FIPS Policy...
+2020-10-12 23:01:14,364 [1] INFO  - Checking Lenovo AutoScroll Utility...
+2020-10-12 23:01:14,453 [1] INFO  - Loading External Apps from: D:\Disk\PortableApps\mRemoteNG-Portable\extApps.xml
+2020-10-12 23:01:14,931 [1] WARN  - PuttySessions.Watcher.StartWatching() failed.
+Not found 
+2020-10-12 23:01:14,932 [1] WARN  - XmingPortablePuttySessions.Watcher.StartWatching() failed: 'sessions' does not exist.
+2020-10-12 23:01:14,933 [1] INFO  - Showing ComponentsCheck window
+2020-10-12 23:01:14,943 [1] INFO  - Trying to show the components window
+2020-10-12 23:01:14,965 [1] INFO  - Beginning component check
+2020-10-12 23:01:15,095 [1] INFO  - RDP installed
+2020-10-12 23:01:15,109 [1] INFO  - VNC installed
+2020-10-12 23:01:15,113 [1] INFO  - PuTTY installed
+2020-10-12 23:01:24,572 [1] INFO  - ICA installed
+2020-10-12 23:01:25,222 [1] INFO  - Gecko Browser installed
+2020-10-12 23:01:25,222 [1] INFO  - Finished component check
+2023-01-08 08:28:05,969 [1] INFO  - mRemoteNG 1.76.20.24669 Portable Edition starting.
+2023-01-08 08:28:05,974 [1] INFO  - Command Line: C:\கிட்அப்\RDP\MRemoteNG\mRemoteNG.exe
+2023-01-08 08:28:07,091 [1] INFO  - Microsoft Windows 10 Enterprise  64-bit
+2023-01-08 08:28:07,091 [1] INFO  - Microsoft .NET CLR 4.0.30319.42000
+2023-01-08 08:28:07,093 [1] INFO  - System Culture: ta-IN/தமிழ் (இந்தியா)
+2023-01-08 08:28:07,094 [1] INFO  - Checking FIPS Policy...
+2023-01-08 08:28:07,095 [1] INFO  - Checking Lenovo AutoScroll Utility...
+2023-01-08 08:28:07,264 [1] INFO  - Loading External Apps from: C:\கிட்அப்\RDP\MRemoteNG\extApps.xml
+2023-01-08 08:28:07,700 [1] WARN  - PuttySessions.Watcher.StartWatching() failed.
+Not found 
+2023-01-08 08:28:07,700 [1] WARN  - XmingPortablePuttySessions.Watcher.StartWatching() failed: 'sessions' does not exist.
+2023-01-08 08:28:07,701 [1] INFO  - Showing ComponentsCheck window
+2023-01-08 08:28:07,709 [1] INFO  - Trying to show the components window
+2023-01-08 08:28:07,726 [1] INFO  - Beginning component check
+2023-01-08 08:28:07,827 [1] INFO  - RDP installed
+2023-01-08 08:28:07,880 [1] INFO  - VNC installed
+2023-01-08 08:28:07,885 [1] INFO  - PuTTY installed
+2023-01-08 08:28:07,973 [1] INFO  - ICA installed
+2023-01-08 08:28:08,310 [1] ERROR - Failed to properly show the ComponentsWindow
+Unable to load DLL 'mozglue': The specified module could not be found. (Exception from HRESULT: 0x8007007E)
+2023-01-08 08:30:10,374 [1] INFO  - Saving connections...
+2023-01-08 08:30:10,417 [1] INFO  - Successfully saved connections
